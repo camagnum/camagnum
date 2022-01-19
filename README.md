@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Magnum
-- 👀 I’m interested in Data Science
+- 👀 I’m mostly interested in Data Science
 - 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
 - 📫 magnumbenevides@gmail.com
 
