@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Carlos Magnum
 - 👀 I’m mostly interested in Data Science
 - 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
-- 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum&theme=dracula&showicons=True)](https://github.com/camagnum/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum&theme=dracula&show_icons=True)](https://github.com/camagnum/github-readme-stats)
 
 <img class="emoji" alt="mailbox" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png" width="20" height="20"> You can find me:
 
