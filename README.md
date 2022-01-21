@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
 - 📫 magnumbenevides@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum)](https://github.com/camagnum/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum&theme=dracula)](https://github.com/camagnum/github-readme-stats)
 
 <img class="emoji" alt="earth_americas" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png" width="20" height="20"> You can find me:
 
