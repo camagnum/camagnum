@@ -4,6 +4,9 @@
 - 📫 magnumbenevides@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum)](https://github.com/camagnum/github-readme-stats)
+
+<img class="emoji" alt="earth_americas" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png" width="20" height="20"> You can find me:
+
 <a href="mailto:magnumbenevides@gmail.com">
 <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
