@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
 - 📫 magnumbenevides@gmail.com
 
-<a href="https://google.com">
+<a href="mailto:magnumbenevides@gmail.com">
 <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
