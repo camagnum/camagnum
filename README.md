@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
 - 📫 magnumbenevides@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camagnum)](https://github.com/camagnum/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum)
 <a href="mailto:magnumbenevides@gmail.com">
 <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
