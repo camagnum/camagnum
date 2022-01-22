@@ -2,7 +2,7 @@
 - 👀 I’m mostly interested in Data Science
 - 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum&theme=dracula&show_icons=True)](https://github.com/camagnum)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=camagnum&theme=tokyonight&show_icons=True style="max-width = 100%;" height="120em")](https://github.com/camagnum)
 
 <img class="emoji" alt="mailbox" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png" width="20" height="20"> You can find me:
 
