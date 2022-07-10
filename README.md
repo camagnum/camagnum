@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Magnum
-- 👀 I’m mostly interested in Data Science
-- 🌱 I’m currently learning about Data Science, Web Python Frameworks and automation
+- 👀 I’m mostly interested in Data Science and Front-End Web Development
+- 🌱 I’m currently learning about Data Science and web development
 
 <a href="https://github.com/camagnum">
 <img src="https://github-readme-stats.vercel.app/api?username=camagnum&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=camagnum&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
