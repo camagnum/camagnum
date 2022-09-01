@@ -10,7 +10,7 @@
 <a href = "https://www.github.com/camagnum">
   <div>
     <br>
-    <img alt="Magnum-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"><img alt="Magnum-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:  100%;" width="40" height="30" align="middle"><img alt="Magnum-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   style="max-width: 100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"><img alt="Magnum-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:  100%;" width="40" height="30" align="middle"><img alt="Magnum-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   style="max-width: 100%;" width="40" height="30" align="middle"><img alt="Magnum-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
   </div
   <h2 dir="auto"></h2>
 </a>
