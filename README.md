@@ -2,15 +2,20 @@
 - 👀 I’m mostly interested in Data Science and Front-End Web Development
 - 🌱 I’m currently learning about Data Science and web development
 
-<a href="https://github.com/camagnum">
+<!-- <a href="https://github.com/camagnum">
 <img src="https://github-readme-stats.vercel.app/api?username=camagnum&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=camagnum&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camagnum&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=camagnum&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;" height="180em">
-</a>  
+</a>   -->
 
 <a href = "https://www.github.com/camagnum">
   <div>
     <br>
-    <img alt="Magnum-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"><img alt="Magnum-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:  100%;" width="40" height="30" align="middle"><img alt="Magnum-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   style="max-width: 100%;" width="40" height="30" align="middle"><img alt="Magnum-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"><img alt="Magnum-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:  100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   style="max-width: 100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+    <img alt="Magnum-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
   </div
   <h2 dir="auto"></h2>
 </a>
