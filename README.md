@@ -2,10 +2,7 @@
 - 👀 I’m mostly interested in Data Science and Front-End Web Development
 - 🌱 I’m currently learning about Data Science and web development
 
-<!-- <a href="https://github.com/camagnum">
-<img src="https://github-readme-stats.vercel.app/api?username=camagnum&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=camagnum&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camagnum&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=camagnum&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;" height="180em">
-</a>   -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camagnum&bg_color=000&border_color=EE3333&title_color=EE3333&text_color=FFF)
 
 <a href = "https://www.github.com/camagnum">
   <div>
